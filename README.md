@@ -1,4 +1,4 @@
-# Amazon SageMaker Safe Deployment Pipeline
+# Amazon SageMaker Safe Deployment Pipeline-
 ## Introduction
 
 This is a sample solution to build a safe deployment pipeline for Amazon SageMaker. This example could be useful for any organization looking to operationalize machine learning with native AWS development tools such as AWS CodePipeline, AWS CodeBuild and AWS CodeDeploy.
